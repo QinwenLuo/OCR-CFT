@@ -1,0 +1,19 @@
+absl-py==2.1.0
+Cython==0.29.21
+D4RL @ git+https://github.com/rail-berkeley/d4rl@71a9549f2091accff93eeff68f1f3ab2c0e0a288
+dm_control==1.0.22
+gym==0.23.1
+mjrl @ git+https://github.com/aravindr93/mjrl@3871d93763d3b49c4741e6daeaebbc605fe140dc
+mujoco==2.3.7
+mujoco-py==2.1.2.14
+numpy==1.24.4
+pyrallis==0.3.1
+protobuf==5.28.2
+pybullet==3.2.6
+pygame==2.6.0
+PyYAML==6.0.2
+tensorboardX
+torch==2.4.0
+torchaudio==2.4.0
+torchvision==0.19.0
+tqdm==4.66.5
